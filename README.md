@@ -30,7 +30,7 @@ The **British Airways Review Dashboard** was developed to provide a comprehensiv
 
 ## 🔗 Links
 - You can also explore the interactive version here:  
-[View Interactive Data Lineage Diagram] (https://public.tableau.com/views/BritishAirways_17565319598970/Review?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Interactive Data Lineage Diagram](https://public.tableau.com/views/BritishAirways_17565319598970/Review?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 📂 Repository Structure
