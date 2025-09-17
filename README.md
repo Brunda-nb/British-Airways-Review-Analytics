@@ -26,10 +26,11 @@ The **British Airways Review Dashboard** was developed to provide a comprehensiv
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot] <img width="1562" height="749" alt="Screenshot 2025-09-17 124547" src="https://github.com/user-attachments/assets/13c8bb8c-ec81-4ae7-aaea-20444bddca2c" />
+ <img width="1562" height="749" alt="Screenshot 2025-09-17 124547" src="https://github.com/user-attachments/assets/13c8bb8c-ec81-4ae7-aaea-20444bddca2c" />
 
 ## 🔗 Links
-https://public.tableau.com/views/BritishAirways_17565319598970/Review?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- You can also explore the interactive version here:  
+[View Interactive Data Lineage Diagram] (https://public.tableau.com/views/BritishAirways_17565319598970/Review?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 📂 Repository Structure
